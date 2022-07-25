@@ -1,3 +1,0 @@
-compress image
-filter login
-filter admin
